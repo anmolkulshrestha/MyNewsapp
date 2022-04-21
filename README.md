@@ -9,6 +9,7 @@ dont worry about warning!!
 ## Features
 
 - MVVM architecture pattern
+- Single activity Multiple Fragment Model
 - use of Dagger-Hilt dependency injection
 - advance pagging and search view
 - modern approach of using Kotlin Coroutines ,Flow,Room database,APIservice,viewmodels,viewmodelfactories

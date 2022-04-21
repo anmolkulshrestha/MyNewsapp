@@ -11,7 +11,7 @@ dont worry about warning!!
 - MVVM architecture pattern
 - use of Dagger-Hilt dependency injection
 - advance pagging and search view
-- modern approch of using Kotlin Coroutines ,Flow,Room database,APIservice,viewmodels,viewmodelfactories
+- modern approach of using Kotlin Coroutines ,Flow,Room database,APIservice,viewmodels,viewmodelfactories
 - use of navigation components and safe args for data passing
 ## Todos
 

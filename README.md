@@ -29,6 +29,8 @@ dont worry about warning!!
 
 ## News Article
 <img src="https://user-images.githubusercontent.com/103620871/164394224-4a6c524e-8ee9-4dbd-b0c5-dc397a32d811.jpeg" width="180">
+## Demo Video of Mynewsapp
+[](https://youtu.be/u9ZqFZlzMPM)
 
 ## Saving Article by clicking save button
 <img src="https://user-images.githubusercontent.com/103620871/164394180-1a85a3e8-6743-4ec5-a3b5-60b717884b2b.jpeg" width="180">

@@ -26,34 +26,30 @@ dont worry about warning!!
 
 ## Home page
 <img src="https://user-images.githubusercontent.com/103620871/164393913-414d60e0-e2c3-4d8c-9aab-575b08c9eabe.jpeg" width="180">
-![WhatsApp Image 2022-04-21 at 11 44 32]( https://user-images.githubusercontent.com/103620871/164393913-414d60e0-e2c3-4d8c-9aab-575b08c9eabe.jpeg )
+
 ## News Article
 <img src="https://user-images.githubusercontent.com/103620871/164394224-4a6c524e-8ee9-4dbd-b0c5-dc397a32d811.jpeg" width="180">
-![WhatsApp Image 2022-04-21 at 11 44 32 (1)](https://user-images.githubusercontent.com/103620871/164394224-4a6c524e-8ee9-4dbd-b0c5-dc397a32d811.jpeg)
-
-
 
 ## Saving Article by clicking save button
 <img src="https://user-images.githubusercontent.com/103620871/164394180-1a85a3e8-6743-4ec5-a3b5-60b717884b2b.jpeg" width="180">
-![WhatsApp Image 2022-04-21 at 11 44 32 (2)](https://user-images.githubusercontent.com/103620871/164394180-1a85a3e8-6743-4ec5-a3b5-60b717884b2b.jpeg)
+
 ## Sharing Article
 <img src="https://user-images.githubusercontent.com/103620871/164394294-5b77a4ee-0a1d-4445-b3c1-d8828d4404d8.jpeg" width="180">
-![WhatsApp Image 2022-04-21 at 11 44 32 (3)](https://user-images.githubusercontent.com/103620871/164394294-5b77a4ee-0a1d-4445-b3c1-d8828d4404d8.jpeg)
+
 ## Writting My thoughts about Article
 <img src="https://user-images.githubusercontent.com/103620871/164394416-cd666a3b-98c4-4ce7-89b8-0baec67a7924.jpeg" width="180">
-![WhatsApp Image 2022-04-21 at 11 44 32 (4)](https://user-images.githubusercontent.com/103620871/164394416-cd666a3b-98c4-4ce7-89b8-0baec67a7924.jpeg)
+
 ## Sharing Your Thoughts
 <img src="https://user-images.githubusercontent.com/103620871/164394531-9630a12a-344e-4242-af05-cd74218b6ba8.jpeg" width="180">
-![WhatsApp Image 2022-04-21 at 11 44 32 (5)](https://user-images.githubusercontent.com/103620871/164394531-9630a12a-344e-4242-af05-cd74218b6ba8.jpeg)
+
 ## Viewing Saved Article
 <img src="https://user-images.githubusercontent.com/103620871/164394592-96e2796c-3aad-4f5f-8721-edba4db93d08.jpeg" width="180">
-![WhatsApp Image 2022-04-21 at 11 44 32 (6)](https://user-images.githubusercontent.com/103620871/164394592-96e2796c-3aad-4f5f-8721-edba4db93d08.jpeg)
+
 ## Deleting Saved Article by Swipe
 <img src="https://user-images.githubusercontent.com/103620871/164394617-a05698ce-3b64-43c2-9ad4-5fcbef2fc855.jpeg" width="180">
-![WhatsApp Image 2022-04-21 at 11 44 32 (7)](https://user-images.githubusercontent.com/103620871/164394617-a05698ce-3b64-43c2-9ad4-5fcbef2fc855.jpeg)
+
 ## Undo Delete by clicking on undo in Snackbar at bottom
 <img src="https://user-images.githubusercontent.com/103620871/164394662-7721cee4-9281-48aa-9bcf-bb5dc82ac78e.jpeg" width="180">
-![WhatsApp Image 2022-04-21 at 11 44 32 (9)](https://user-images.githubusercontent.com/103620871/164394662-7721cee4-9281-48aa-9bcf-bb5dc82ac78e.jpeg)
 
 
 

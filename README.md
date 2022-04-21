@@ -23,6 +23,10 @@ dont worry about warning!!
 - Save article for feature reference
 ## News api used
 - https://newsapi.org/
+- 
+ ## Demo of Mynewsapp
+[app demo](https://youtu.be/u9ZqFZlzMPM)
+
 ## Screenshots
 
 ## Home page

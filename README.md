@@ -6,6 +6,8 @@ A Simple News App built with android studio. In this app, there is a Home page, 
 ## Mynewsapp Apk
 [App link](https://drive.google.com/file/d/1itEOtodxGIL7eEvded6YHpXaQI6y6Gxm/view?usp=sharing)
 dont worry about warning!!
+## Demo of Mynewsapp
+[app demo](https://youtu.be/u9ZqFZlzMPM)
 
 ## Features
 
@@ -57,6 +59,7 @@ dont worry about warning!!
 
 ## Undo Delete by clicking on undo in Snackbar at bottom
 <img src="https://user-images.githubusercontent.com/103620871/164394662-7721cee4-9281-48aa-9bcf-bb5dc82ac78e.jpeg" width="180">
+
 ## Demo video of Mynewsapp
 [app demo](https://youtu.be/u9ZqFZlzMPM)
 

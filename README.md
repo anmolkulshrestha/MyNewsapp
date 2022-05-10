@@ -1,4 +1,5 @@
 # Mynewsapp
+# email- anmol.kulshreshtha.cse21@itbhu.ac.in
 # Project Title
 
 A Simple News App built with android studio. In this app, there is a Home page, which will display top news from newsapi.org and also allows you to SEARCH news categories ranges from tech to entertainment and provides features like SAVING,SHARING and WRITTING your thoughts about the particular aticle on opening the article and sharing your vision to the world. You can search news using a search bar at top. App is providing a smooth and amazing design with gestures effect and smooth experience with android  platform.
